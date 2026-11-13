@@ -1,0 +1,16 @@
+# Environment for running the NLP_grp12 notebooks
+# (entity extraction / coreference / relation extraction drafts)
+
+# Notebook kernel
+jupyter
+ipykernel
+
+# Modeling (relation_extraction.ipynb, coreference.ipynb)
+torch
+
+# Data processing (data_processing.ipynb)
+pandas
+numpy
+matplotlib
+beautifulsoup4
+lxml
